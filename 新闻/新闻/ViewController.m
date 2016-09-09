@@ -21,7 +21,10 @@
 -(void)gaojiesuanfang{
 
 
-
+    NSLog(@"你好吗");
+       NSLog(@"你好吗");
+       NSLog(@"你好吗");
+       NSLog(@"你好吗");
 
 }
 
